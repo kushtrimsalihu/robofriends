@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Future Earth Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Future Earth Regular'), url('Future-Earth.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Future Earth Regular';
+    font-weight: 200px;
+    color: #0ccac4;
+
+}
